@@ -20,3 +20,18 @@
 git config --global user.email "You email"
 git config --global user.name "You name"
 ```
+Подробная информация изложена в книге на официальном сайте.
+https://git-scm.com/book/ru/v2
+
+## 4. Инициализация репозитория
+
+Создание версии существующего проекта с использованием нового репозитория Git
+* git init
+
+Сохранение изменений в репозитории:
+* git add
+* git commit
+
+
+редактирование комментариев
+git commit --amend - am "название комментария"
